@@ -1,1 +1,50 @@
-Put your plan, story, and any supporting material here, you could use the help of a readme markdown generator such as [readme.so](https://readme.so/)
+
+# CODING CHALLENGE (KATA)
+
+## Sum of Arrays in Space ##
+
+As a member of the space mining crew, your task is to gather valuable resources from different planets in faraway galaxies. Each planet has an array of resource values, and your mission is to write a function that sums up these values to find the total resources collected.
+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠤⠤⠤⠤⠤⠤⣀⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⢤⡶⠞⠋⠉⠀⣀⣀⣀⣀⣀⣀⣀⠀⠉⠲⡀⠀
+⠀⠀⠀⠀⣀⠴⢊⡥⠚⠁⣀⠤⠖⠊⠉⠀⠀⠀⠀⠈⢧⡸⡀⠀⠀⢹⠀
+⠀⢀⡴⠊⣡⠖⠁⢀⠴⠊⣁⣀⡠⠔⠒⠊⠉⠉⠓⢦⠀⠀⢱⠀⠀⢀⡇
+⡴⠋⢀⠞⠁⢀⠔⠁⢀⡼⠤⠇⣀⡤⠤⠤⡀⠀⠀⢸⠀⠀⡸⠀⠀⡸⠀
+⠀⣰⠃⠀⡰⠃⠀⡴⠋⠀⡠⠊⠁⠀⠀⣠⠇⠀⢠⠎⠀⢠⠋⠀⣰⠃⠀
+⣰⠃⢠⡚⡗⠀⡜⠀⠀⢸⡀⠀⣀⣼⣹⠁⢀⠔⠁⢀⡴⠃⢀⡴⠁⠀⠀
+⡇⠀⠀⡏⠁⠀⣇⠀⠀⠀⠈⠉⠀⣀⠤⠚⠁⢀⡤⠋⠀⡠⠊⣠⠞⠀⠀
+⡇⠀⠀⢻⡀⠀⠈⠓⠲⠖⠒⠚⠉⠀⢰⡋⢙⠏⢀⡤⢊⡠⠚⠁⠀⠀⠀
+⢳⡀⠀⠀⠙⠲⠤⠄⠀⠠⠤⠤⠒⠊⠁⣉⣭⣚⡥⠒⠉⠀⠀⠀⠀⠀⠀
+⠀⠙⡞⠉⣆⠀⠀⠀⠀⢀⣀⡤⠤⠶⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠉⠚⠁⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+* I employed the **Disney Creative Strategy**  to come up with kata ideas:
+    * **The Dreamer:** Wrote down the most crazy, creative ideas I can come up with such as treasure hunt, puzzles, tic-tac-toe.
+
+    * **The Realist:** Evaluated the ideas based on my current skills and the amount of time given to complete. Whilst there were some great ideas, just seemed to complex to actually create.
+
+    * **The Critic:** Assessed the possibility of each idea and then just focused on what I could realistically achieve.
+
+Ended up chosing **space theme** to make it more adventurous and the idea of collecting resources from different planets to make the challenge more engaging, also chose a straightforward challenge that sums up the arrays. 
+
+### Writing the Kata ###
+
+Went through a few kata challenges in Codewars to get the idea of how to write it. 
+
+- Wrote the instructions in 'main.js' that were easy to understand. Made sure whoever reads it knows exactly what to do. 
+
+- Wrote out skeleton function, following the same format as in Codewars katas.
+
+- TDD: Wrote out test cases in 'main.test.js' before implementing the solution. Focused on expected outcomes.
+
+- To ensure tests covered many scenarios, I used **Equivalency Partitioning** and **Boundary Value Analysis** such as empty arrays and arrays with negative numbers.
+
+- To test it I added a working function and ensured it passed, and failed without the solution. 
+
+
+
+
+
