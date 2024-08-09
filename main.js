@@ -16,6 +16,15 @@ export function sumResources(resources) {
     // Good luck!
 }
 
+
+
+
+
+
+
+
+
+
 /* Well done if you reached this next challenge! Now you need to create a function named 
    'convertTemperature'.
    

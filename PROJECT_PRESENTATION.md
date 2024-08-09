@@ -1,5 +1,5 @@
 
-# CODING CHALLENGE (KATA)
+# SPACED-THEMED CODING (KATA)
 
 ## Sum of Arrays in Space ##
 
@@ -44,9 +44,15 @@ Went through a few kata challenges in Codewars to get the idea of how to write i
 
 - To test it I added a working function and ensured it passed, and failed without the solution. 
 
-# Bonus
+# Bonus Challenge
 
 ## Temperature Converter in Space ##
 
 During your travelling journey, you'll come across planets with temperatures measured in Celsius. Your mission is to convert these temperatures to Fahrenheit so they can be understood across the galaxy. 
+
+- When I completed the first kata, I still had quite a lot of time left until you needed to submit the repo so I decided to do another challenge.
+
+- Struggled to come up with challenges this time so I asked chatGPT to give me loads of random ideas that I can use with space theme, loved the temperature converter so decided to stick with that. 
+
+- Did the same as with the previous kata which is writingclear instructions, creating skeleton function but for making different test cases I used temperature conversion table image that I have found on google to use all sorts of extreme values and also included negative numbers.
 
