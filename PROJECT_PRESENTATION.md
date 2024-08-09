@@ -3,7 +3,7 @@
 
 ## Sum of Arrays in Space ##
 
-As a member of the space mining crew, your task is to gather valuable resources from different planets in faraway galaxies. Each planet has an array of resource values, and your mission is to write a function that sums up these values to find the total resources collected.
+Welcome Space Traveler! Your task is to gather valuable resources from different planets in faraway galaxies. Each planet has an array of resource values, and your mission is to write a function that sums up these values to find the total resources collected.
 
 
 
@@ -44,7 +44,9 @@ Went through a few kata challenges in Codewars to get the idea of how to write i
 
 - To test it I added a working function and ensured it passed, and failed without the solution. 
 
+# Bonus
 
+## Temperature Converter in Space ##
 
-
+During your travelling journey, you'll come across planets with temperatures measured in Celsius. Your mission is to convert these temperatures to Fahrenheit so they can be understood across the galaxy. 
 
